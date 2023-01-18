@@ -1,6 +1,6 @@
 <h2> Hi there 👋, I'm Saveliy!
 <img align='right' src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="230">
-<p><img src="https://github.com/ralcorta/ralcorta/blob/main/avatar.png" width="30"><em>Frontend developer </br>TeamLead
+<p><em>Frontend developer </br>TeamLead
 
 
 ### <img src="https://media.giphy.com/media/2wh8AaMZ2jtRseDQ3C/giphy.gif" width="50"> A little more about me...  
