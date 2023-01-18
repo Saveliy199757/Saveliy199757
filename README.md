@@ -1,16 +1,17 @@
-### Hi there 👋
+<h2> Hi there 👋, I'm Saveliy!
+<img align='right' src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="230">
+<p><img src="https://github.com/ralcorta/ralcorta/blob/main/avatar.png" width="30"><em>Frontend developer </br>TeamLead
 
-<!--
-**Saveliy199757/Saveliy199757** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### <img src="https://media.giphy.com/media/2wh8AaMZ2jtRseDQ3C/giphy.gif" width="50"> A little more about me...  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+const developer = {
+  fullname: 'Saveliy Borovkov',
+  country: 'Russia',
+  Lenguages: [ 'RUS', 'EN' ],
+  position: 'Frontend Developer',
+  code: [ 'Javascript', 'Typescript', 'HTML', 'CSS' ],
+  tools: [ 'Node', 'React', 'Redux', 'Angular', 'RxJs', 'NgRx', 'Jest', 'Docker', 'Webpack']
+}
+```
