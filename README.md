@@ -14,6 +14,3 @@ const developer = {
   tools: [ 'Node', 'React', 'Redux', 'Angular', 'RxJs', 'NgRx', 'Jest', 'Docker', 'Webpack']
 }
 ```
-  
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saveliy199757&layout=compact)](https://github.com/Saveliy199757/github-readme-stats)
