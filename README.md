@@ -14,3 +14,5 @@ const developer = {
   tools: [ 'Node', 'React', 'Redux', 'Angular', 'RxJs', 'NgRx', 'Jest', 'Docker', 'Webpack']
 }
 ```
+
+### <img src="./Screensh.png" width="250">
