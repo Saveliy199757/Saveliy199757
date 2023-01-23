@@ -16,4 +16,4 @@ const developer = {
 ```
 <h2> Certificates
      
-### <img src="./Screensh.png" width="150"> <img src="./Screenshot_2.png" width="150"> <img src="./Screenshot_1.png" width="150"> <img src="./c12d6564acb938f3093632550eea2bb2.jpg" width="150"> <img src="./e17e5ce99f5bac1e79b315b86142ac92.jpg" width="150"> <img src="./7ddbba772fbb454c3859bc43a6379a31.jpg" width="150">
+### <img src="./Screensh.png" width="130"> <img src="./Screenshot_2.png" width="130"> <img src="./Screenshot_1.png" width="130"> <img src="./c12d6564acb938f3093632550eea2bb2.jpg" width="130"> <img src="./e17e5ce99f5bac1e79b315b86142ac92.jpg" width="130"> <img src="./7ddbba772fbb454c3859bc43a6379a31.jpg" width="130">
